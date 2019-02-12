@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "doctorcases-deploy": "doctorcases-31a1e",
+    "default": "react-firebase-deploy",
+    "firebase-react-reploy": "react-firebase-deploy",
+    "doctorcases": "doctorcasesweb",
+    "shadow-doctorcases": "shadow-doctor-cases-react",
+    "doctocases": "doctocases",
+    "doctor-br": "doctorcases-br",
+    "doctorcasesweb": "doctorcasesweb",
+    "dialogflow2": "dialogflow0-4a6b9"
+  }
+}
